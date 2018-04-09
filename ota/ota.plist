@@ -10,7 +10,11 @@
 				<dict>
 					<key>kind</key>
 					<string>software-package</string>
+<<<<<<< HEAD
 					<key>url pc</key>
+=======
+					<key>url</key>
+>>>>>>> 3ab4dced637612c8e8a449a69c747b6ad33d5c18
 					<string>https://isidrodelarosa.com/xamarin/app.ipa</string>
 				</dict>
 				<dict>
