@@ -11,6 +11,8 @@
 					<key>kind</key>
 					<string>package</string>
 					<key>pc</key>
+					<string>software</string>
+					<key>url</key>
 					<string>https://isidrodelarosa.com/xamarin/app.ipa</string>
 				</dict>
 				<dict>
