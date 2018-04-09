@@ -9,8 +9,8 @@
 			<array>
 				<dict>
 					<key>kind</key>
-					<string>software-package</string>
-					<key>url pc</key>
+					<string>package</string>
+					<key>pc</key>
 					<string>https://isidrodelarosa.com/xamarin/app.ipa</string>
 				</dict>
 				<dict>
